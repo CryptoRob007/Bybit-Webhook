@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: bybit-webhook
+    env: python
+    buildCommand: ""
+    startCommand: python webhook.py
+    plan: free
+    envVars:
+      - key: API_KEY
+        value: WTjuW0mdvroli6StTK
+      - key: API_SECRET
+        value: TsPTJzcysz3NGEJqwfwfjx4XcrxbJrt5TpOO
