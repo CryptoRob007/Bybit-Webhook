@@ -1,0 +1,4 @@
+Right click in bybit-webhook folder and click "Git Bash Here"
+
+JNeeDFaQjGw7HfkKPu     api key
+m89CNLQ2Nl9c9EHNQoUwpKHnbQVZEQqfglwn     sec 
